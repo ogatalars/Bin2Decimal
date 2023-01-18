@@ -1,6 +1,5 @@
 Idea from here
 
-Demo: Codesandbox
 
 Tier: 1-Beginner
 
