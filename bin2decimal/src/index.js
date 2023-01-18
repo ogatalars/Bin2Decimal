@@ -34,7 +34,7 @@ function App() {
   };
   return (
     <>
-      <h1>Binary to Decimal Converter</h1>
+      <h1>Binary 2 Decimal Converter</h1>
 
       <StyledForm onSubmit={submit}>
         {errorMessage && <span style={{ color: "red" }}>{errorMessage}</span>}
