@@ -37,7 +37,7 @@ export const BinaryTextInput = styled.input`
 
 export const DecimalTextInput = styled.input`
   width: 50%;
-  font-size: 18px;
+  font-size: 30px;
   margin-left: 10px;
   margin-bottom: 10px;
   border: 1px solid #a3a3a3;
@@ -54,11 +54,11 @@ export const Button = styled.button`
   padding: 10px;
   border: 1px solid;
   border-radius: 2px;
-  font-size: 18px;
+  font-size: 28px;
   cursor: pointer;
 
   &:hover {
-    border: 1px solid orange;
-    color: orange;
+    border: 1px solid blue;
+    color: blue;
   }
 `;
